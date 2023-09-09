@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... basketball, writing, and gaming.
 - 🌱 I’m currently learning ... html and javascript
 - 💞️ I’m looking to collaborate on ... nothing rn 
-- 📫 How to reach me ... email : davidolayanju22@gmail.com
+  
 
 
 <!---
